@@ -3,7 +3,7 @@
 Proyecto grupal de la asignatura Estructura de datos.
 ### Rama principal: Main
 Proyecto desarrollado para facilitar la gestion de un sistema academico en el ambito universitario.
->Integrantes:
+###Integrantes:
 ```
 - Mateo Julián Chamba Ludeña
 - Victor David Nivelo Yaguana
