@@ -1,7 +1,7 @@
 # Proyecto PIS
 ## Tema: Aula sin papeles.
 Proyecto grupal de la asignatura Estructura de datos.
-## Rama principal: Main
+### Rama principal: Main
 Proyecto desarrollado para facilitar la gestion de un sistema academico en el ambito universitario.
 >Integrantes:
 ```
